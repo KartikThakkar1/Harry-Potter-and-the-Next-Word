@@ -31,7 +31,33 @@
 - The model was compiled to optimize  the ``categorical_crossentropy`` loss using the ``Adam`` optimizer.
 - Training was done on GPU for 100 epochs. Training duration was ~ 8 minutes.
 
-## Testing for new data on the Streamlit Application:
+## Testing for new data:
 
-- 
+Input text: why dogs? can it be
+Predicted: petunia
+
+
+Input text: oculus
+Predicted: reparo
+
+Input text: drink the polyjuice
+Predicted: potion
+
+Input text: how are you doing Professor
+Predicted: a
+
+Input text: salazar
+Predicted: slytherin
+
+Input text: he who must not be
+Predicted: happy
+
+
+Input text: Snape is a big
+Predicted: potion
+
+Input text: wingardium
+Predicted: leviosa
+
+ 
 
