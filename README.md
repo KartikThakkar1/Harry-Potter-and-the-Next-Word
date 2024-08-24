@@ -29,7 +29,8 @@
 
  
 - The model was compiled to optimize  the ``categorical_crossentropy`` loss using the ``Adam`` optimizer.
-- Training was done on GPU for 100 epochs. Training duration was ~ 8 minutes.
+- Training was done on GPU for 100 epochs first and then for 150 epochs where a percentage decrease in training loss was ~32% and percentage increase in training accuracy was ~15%.
+- Training duration was ~ 8 minutes.
 
 ## Testing for new data:
 
@@ -58,6 +59,19 @@ Predicted: potion
 
 Input text: wingardium
 Predicted: leviosa
+
+
+## Streamlit Application Screenshots: 
+
+![Screenshot (101)](https://github.com/user-attachments/assets/7901a544-5eeb-43da-9d2c-d60851e97724)
+![Screenshot (100)](https://github.com/user-attachments/assets/c8439c0f-a0be-4577-b66d-d2f641dfa95c)
+![Screenshot (99)](https://github.com/user-attachments/assets/00782063-3461-4419-aac9-e45d572eaee7)
+![Screenshot (98)](https://github.com/user-attachments/assets/93080fb6-68d3-485a-965b-2b658ecb498c)
+![Screenshot (97)](https://github.com/user-attachments/assets/981a8b6b-b46c-4134-bd32-927acbcb4300)
+![Screenshot (96)](https://github.com/user-attachments/assets/af68b063-82cf-4dfa-8101-19cf8729a3d0)
+![Screenshot (95)](https://github.com/user-attachments/assets/04a38be0-46c6-4b19-9199-72e6cff183be)
+![Screenshot (94)](https://github.com/user-attachments/assets/abc97d1c-23c1-4dc6-8ffd-ac85a4ef8412)
+![Screenshot (93)](https://github.com/user-attachments/assets/0ee3f792-d7c6-457a-9f8c-bc1e6c4e20a1)
 
  
 
