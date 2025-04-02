@@ -1,3 +1,6 @@
+# UPDATES ⚡ :  [Report Paper](Research Paper Report.pdf) contains the approach and details of this project in broad text. 
+
+
 # LSTM RNN for Next Word Prediction + Streamlit Application : Harry Potter Edition 🪄
 
 ## Dataset and Data Filtering:
